@@ -2,8 +2,7 @@
 
 int factorial(int n){
 
-
-	//this is a comment
+	//code to handle -ve case handled
 	if(n < 0){
 		int t;
 		cin>>t;
